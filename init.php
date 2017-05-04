@@ -1,7 +1,7 @@
 <?php
-$bd = ’L2IF72_BD ’ ;
-$user = ’<p1612126>’  ;
-$passwd = ’<Deejaydayoute971>’  ;
+$bd = ’L2IF07_BD ’ ;
+$user = ’<p1503762>’  ;
+$passwd = ’<Lilkha04>’  ;
 $machine = ’ localhost ’ ;
 $connexion = mysqli_connect ( $machine , $user , $passwd , $bd ) ;
 i f
