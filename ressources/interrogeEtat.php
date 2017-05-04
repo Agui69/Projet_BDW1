@@ -4,7 +4,7 @@ $joueur=$_GET["joueur"];
 $connexion = null;
 
 try{
-$connexion = mysqli_connect("localhost", "<loginTOMUSS>", "<pwdTOMUSS>", "L2IFxx_BD");
+$connexion = mysqli_connect("localhost", "p1503762","Lilkha04", "L2IF07");
  if (mysqli_connect_errno()) {
 	printf("Échec de la connexion : %s<br>", mysqli_connect_error());
  	exit();
